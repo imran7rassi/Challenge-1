@@ -11,6 +11,12 @@ At first when I receieved the starter code I used the git pull command from git 
 ## Usage
 
 You can read every section of this website and it shows how a business can grow using tools shown in the website.
+    ```md
+    ![the main contens](assets/images/screenshot.png) 
+    ```
+    ```md
+    ![describing tools of webpage](assets/images/screenshot-2.png)
+    ```
 
 ## License
 
