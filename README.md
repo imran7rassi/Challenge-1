@@ -24,9 +24,9 @@ You can read every section of this website and it shows how a business can grow 
 ## Credits
 
 The websites thst I used to refernce:
-https://www.w3schools.com/
-https://developer.mozilla.org/
-https://youtube.com/
+1. https://www.w3schools.com/
+2. https://developer.mozilla.org/
+3. https://youtube.com/
 
 ## License
 
